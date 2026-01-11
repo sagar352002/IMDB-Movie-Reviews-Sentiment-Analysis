@@ -70,13 +70,7 @@ This project answers:
 
 ---
 
-## 📁 Project Structure
-- `data/` → IMDb review dataset  
-- `notebooks/` → NLP preprocessing and modeling  
-- `Nlp_project.ipynb` → Final sentiment analysis notebook  
-- `README.md` → Project documentation  
 
----
 
 ## 👤 Author
 **Sagar Kumar**  
